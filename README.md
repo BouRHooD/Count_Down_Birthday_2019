@@ -1,5 +1,5 @@
 # Count_Down_Birthday
-The first independent project in c#  
+The first independent project in c# created in [April 14, 2019, 01:33:59]
   
 Countdown timer:  
 ![main-app-guf](Count_Down_Birthday/AppRecources/MainApp.gif)  
